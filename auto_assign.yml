@@ -1,0 +1,10 @@
+addReviewers: true
+addAssignees: true
+reviewers: 
+  - kukynekoi
+  - brayangr
+
+skipKeywords:
+  - wip
+
+  numberOfReviewers: 0
