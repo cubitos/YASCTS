@@ -1,1 +1,3 @@
 *.pyc
+database/*.yaml
+database/*.yml
