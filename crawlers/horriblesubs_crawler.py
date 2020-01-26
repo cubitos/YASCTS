@@ -68,7 +68,6 @@ class HorribleSubsCrawler(BaseCrawler):
         self.base_address = base_address
         self.shows_address = shows_address
         self.shows = shows
-        pass
 
     @staticmethod
     def call_api(params:dict):
