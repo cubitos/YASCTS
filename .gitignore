@@ -1,1 +1,4 @@
 *.pyc
+database/*.yaml
+database/*.yml
+.vscode
